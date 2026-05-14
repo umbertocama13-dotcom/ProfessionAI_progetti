@@ -1,0 +1,45 @@
+DATATRUST SOLUTIONS — APPUNTI STRATEGICI Q3 2025
+=================================================
+Autori: CEO (Luca Bianchi) / CFO (Anna Greco)
+Data: 30 settembre 2025
+Classificazione: Strettamente Riservato
+
+--- APPUNTI CEO ---
+
+Il Q3 è andato come previsto: calo stagionale, niente di allarmante.
+La presentazione a Londra a settembre è stata un successo inaspettato.
+Tre aziende del Nord Europa hanno chiesto una demo del sistema LLM.
+Una di queste, una società di asset management olandese, sembra molto seria.
+
+L'acquisizione della startup OCR non è andata in porto: hanno accettato
+l'offerta del competitor (un fondo di PE londinese). Decisione giusta
+non inseguire. Svilupperemo la funzionalità internamente con i nostri AI Engineer.
+
+Fatima (Country Manager Europa) si è insediata e sta lavorando bene.
+Primo viaggio a Madrid programmato per ottobre: incontro con due potenziali
+clienti nel settore assicurativo spagnolo.
+
+Priorità Q4:
+- Chiudere il contratto con Rhein Kapital (Germania) entro ottobre.
+  È il deal più grande della nostra storia: valore stimato € 1.2M annui.
+- Lanciare commercialmente il prodotto LLM con brand dedicato: "DocMind by DataTrust".
+- Avviare il processo di selezione per un CTO adjunct specializzato in AI.
+
+--- APPUNTI CFO ---
+
+Il calo del margine EBITDA al 17% mi preoccupa meno di quanto sembri.
+È strutturale e temporaneo: stiamo investendo per crescere.
+Il vero test sarà il Q4: se chiudiamo Rhein Kapital, i conti tornano.
+
+Ho rivisto le proiezioni annue al ribasso prudenziale:
+- Scenario base:      fatturato € 18.0M, EBITDA € 3.6M (margine 20%)
+- Scenario ottimista: fatturato € 19.2M, EBITDA € 4.1M (margine 21%)
+
+Il costo del personale resta alto (67% nel Q3) per via delle nuove assunzioni.
+L'automazione interna con il sistema LLM dovrebbe iniziare a produrre
+risparmi misurabili dal Q1 2026. Ho chiesto al CTO una stima puntuale.
+
+Nota riservata: un fondo di private equity milanese ci ha contattato informalmente
+per esplorare una possibile partecipazione di minoranza. Ho declinato per ora,
+ma la cosa potrebbe tornare utile se volessimo accelerare l'espansione nel 2026.
+Ne parlerò con Luca a voce.
